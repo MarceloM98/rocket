@@ -123,6 +123,19 @@ main section:nth-child(3){
     animation-delay: .8s;
 }
 
+@media (max-width: 643px){
+  section ul {
+      justify-content: center;
+  }
+  section h2 {
+    text-align: center;
+  }
+  section p {
+    text-align: center;
+  }
+
+}
+
 @keyframes fromTop {
   from {
     opacity: 0;
