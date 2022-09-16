@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Proejto construído do evento Next Level Week da Rocketseat
+Projeto construído do evento Next Level Week da Rocketseat
 
 [Clique aqui para acessar](https://marcelom98.github.io/rocket/)
 
@@ -16,4 +16,4 @@ Proejto construído do evento Next Level Week da Rocketseat
 
 ## Contato
 
-marceloclarosmartins@hotmail.com
+marcelocmartins98@gmail.com
